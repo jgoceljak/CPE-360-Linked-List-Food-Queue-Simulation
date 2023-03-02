@@ -1,4 +1,4 @@
-// Corvin Terzo and John Goceljak
+
 // When customers arrive they join the single queue. When they get to the end of the queue,
 // they pick the next free counter to go place their order.
 
