@@ -1,0 +1,27 @@
+By Corvin Terzo and John Goceljak
+2.1
+Average Wait Time: 100.25
+Avearge Service Time: 103.363
+Avearge Queue Legnth: 23.3569
+Fastest Wait Time:0 @ time 0
+Longest Wait Time: 205 @ time 325
+Fastest Service Time: 10 @ time 9
+Longest Service Time: 210 @ time 319
+Shortest Queue Legnth: 0 @ time 0
+Longest Queue Legnth: 36 @ time 317
+
+
+2.2
+Option 1)
+Average Wait Time: 22.3
+Avearge Service Time: 27.1
+Average Queue Legnth: 4.92
+
+Option 2)
+Average Wait Time: 8.26
+Avearge Service Time: 15.56
+Average Queue Legnth: 1.65
+
+Option 2 works best based to the test we have run, on avearge it has the lower avearge wait times and this makes sense since this is the way most stores do it.
+This may be because customers are split in 2 differnt lines instead of one big one so there are half the amount of people infront of them. This has a greater 
+impact than the line just moving faster. 
